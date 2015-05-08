@@ -25,5 +25,6 @@
   },
   "bugs": {
     "url": "https://github.com/joaoafrmartins/spaghetty-init/issues"
-  }
+  },
+  "license": "MIT"
 }
